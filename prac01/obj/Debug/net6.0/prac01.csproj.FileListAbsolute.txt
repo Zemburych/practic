@@ -1,0 +1,15 @@
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\bin\Debug\net6.0\prac01.exe
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\bin\Debug\net6.0\prac01.deps.json
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\bin\Debug\net6.0\prac01.runtimeconfig.json
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\bin\Debug\net6.0\prac01.dll
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\bin\Debug\net6.0\prac01.pdb
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.csproj.AssemblyReference.cache
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.dll
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\refint\prac01.dll
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.pdb
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\prac01.genruntimeconfig.cache
+C:\Users\Иван\OneDrive\Desktop\practic\prac01\obj\Debug\net6.0\ref\prac01.dll
